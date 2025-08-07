@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.photo{
+    background-image: url(vushtrri.jpg);
+    background-size: cover;
+    height: 790px;
+}
