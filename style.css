@@ -49,7 +49,25 @@
 }
 
 
+.boxat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
 
+.box img{
+    width: 390px;
+    height: 500px;
+    margin-top: 40px;
+    border-radius: 40px;
+}
+
+.ontour1{
+    background-image: url(ontour.png);
+    background-size: cover;
+    height: 1000px;
+}
 
 
 
