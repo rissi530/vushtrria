@@ -69,5 +69,39 @@
     height: 1000px;
 }
 
+.trainerbck{
+    background-color: #0645ad;
+    height: 490px;
+}
+
+
+.trainer{
+    width: 90%;
+    margin: auto;
+}
+
+.traineri img{
+    width: 50%;
+    border-radius: 30px;
+    margin: 40px;
+    float: right;
+}
+
+.trainerh1{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 60%;
+    text-align: justify;
+}
+
+.trainerp{
+    font-size: 24px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 55%;
+    text-align: center;
+
+}
 
 
