@@ -178,15 +178,30 @@
 }
 
 .luajh{
-    display: flex;
-    justify-content: center;
+    
     margin-top: 400px;
 }
 
 .luajh1{
+    display: flex;
+    justify-content: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 60px;
     color: white;
+}
+
+.luajh2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+.luajh2 h2{
+    text-decoration: underline;
 }
 
 .regjistrohuimg img{
@@ -233,4 +248,75 @@ align-items: center;
     text-decoration: none;
 }
 
+
+
+.first{
+    background-color: black;
+    width: 35%;
+    border-radius: 30px;
+    margin: auto;
+
+}
+
+.you{
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+
+.boxr{
+    width: 750px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.inputat{
+    margin-top: 50px;
+}
+
+.inputat input{
+    padding: 15px;
+    border-radius: 13px;
+    width: 40%;
+}
+
+.h1r{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.h1r h1{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.inputat button{
+    padding: 23px;
+    border-radius: 20px;
+    width: 30%;
+    color: black;
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    transition: all 0.5s ease-in-out;
+}
+
+.inputat button:hover{
+    transform: scale(1.2);
+    color: white;
+    background-color: rgb(18, 17, 17);
+}
+
+.h3{
+    margin-top: 30px;
+}
+
+.h3 a{
+    text-decoration: underline;
+    color: white;
+    text-align: left;
+}
 
