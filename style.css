@@ -370,7 +370,7 @@ align-items: center;
     width: 90%;
     margin: auto;
     background-color: #0645ad;
-    height: 700px;
+    height: 755px;
     border-radius: 40px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -399,4 +399,15 @@ align-items: center;
     font-size: 19px;
     color: white;
     float: right;
+}
+
+.erjonvush img{
+    width: 75px;
+}
+
+.erjonvush{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
 }
