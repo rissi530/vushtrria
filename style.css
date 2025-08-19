@@ -411,3 +411,29 @@ align-items: center;
     align-items: center;
     margin-top: 18px;
 }
+
+.conticket1{
+    width: 100%;
+    margin: auto;
+
+}
+
+.stadiumseats{
+    display: flex;
+    justify-content: center;
+}
+
+.stadiumseatso{
+    display: flex;
+    justify-content: center;
+}
+
+.stadiumseatso table{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.stadiumseatso th,td{
+    padding: 20px;
+}
+
